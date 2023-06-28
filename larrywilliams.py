@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import os
 
-intents = discord.Intents.default()
+intents = discord.Intents.all()
 intents.members = True
 
 bot = commands.Bot(command_prefix='~', intents=intents)
@@ -11,10 +11,10 @@ bot = commands.Bot(command_prefix='~', intents=intents)
 async def on_ready():
     print(f'Bot is ready. Logged in as {bot.user}')
 
-@bot.command()
+@bot.command('larrywilliams')
 async def larrywilliams(ctx):
     # Specify the image path
-    image_path = '../img/larrywilliams.png'
+    image_path = 'larrywilliams.png'
 
     try:
         with open(image_path, 'rb') as image_file:
