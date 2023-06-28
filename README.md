@@ -13,13 +13,23 @@ The official Larry Williams discord bot
 
 # FAQ
 **Q**: How do I submit a feature request for Larry Williams?
+
 **A**: Larry Williams
+
+<br>
 
 **Q**: How do I contribute to Larry Williams?
+
 **A**: Larry Williams
+
+<br>
 
 **Q**: Who is Larry Williams?
+
 **A**: Larry Williams
 
+<br>
+
 **Q**: Larry Williams
+
 **A**: Larry Williams
