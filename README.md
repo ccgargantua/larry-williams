@@ -2,10 +2,9 @@
 The official Larry Williams discord bot
 
 # Commands
-| Command       | Args | Description            |
-|---------------|------|------------------------|
-| ~help         | N/A  | Get a list of commands |
-|~larrywilliams | N/A  | Larry Williams         |
+| Command        | Args | Description            |
+|----------------|------|------------------------|
+| ~larrywilliams | N/A  | Larry Williams         |
 
 # Disclaimers
  * The political opinions expressed by Larry Williams's shirt do not reflect or represent mine (ccgargantua).
